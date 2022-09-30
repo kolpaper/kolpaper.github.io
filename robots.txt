@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://kolpaper.github.io/sitemap.xml
